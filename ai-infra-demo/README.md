@@ -4,12 +4,13 @@ This repository demonstrates how to set up and connect to **Qdrant** (a vector d
 
 ---
 
-## 🚀 Setup Instructions
+### Setup Instructions
 
 ### 1. Clone the Repository
 
-git clone <your-repo-url>
-cd <your-repo-folder>
+	git clone <your-repo-url>
+
+	cd <your-repo-folder>
 
 
 ### 2. Start Qdrant with Docker
